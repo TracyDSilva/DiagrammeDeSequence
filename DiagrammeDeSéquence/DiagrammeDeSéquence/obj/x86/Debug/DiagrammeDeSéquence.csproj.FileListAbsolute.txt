@@ -1,0 +1,5 @@
+U:\Slam4\DiagrammeDeSéquence\DiagrammeDeSéquence\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\Slam4\DiagrammeDeSéquence\DiagrammeDeSéquence\bin\Debug\DiagrammeDeSéquence.exe
+U:\Slam4\DiagrammeDeSéquence\DiagrammeDeSéquence\bin\Debug\DiagrammeDeSéquence.pdb
+U:\Slam4\DiagrammeDeSéquence\DiagrammeDeSéquence\obj\x86\Debug\DiagrammeDeSéquence.exe
+U:\Slam4\DiagrammeDeSéquence\DiagrammeDeSéquence\obj\x86\Debug\DiagrammeDeSéquence.pdb
